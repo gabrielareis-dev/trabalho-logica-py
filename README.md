@@ -1,4 +1,4 @@
-# Algoritmos e Lógica de Programação com Python 🐍
+# Algoritmos e Lógica de Programação com Python 
 
 Este repositório reúne os projetos práticos desenvolvidos por mim para a disciplina de Lógica de Programação no curso de Engenharia de Software na Uninter.
 
