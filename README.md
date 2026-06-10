@@ -37,6 +37,5 @@ O objetivo deste trabalho foi aplicar conceitos fundamentais de lógica de progr
 
 1. Certifique-se de ter o **Python 3** instalado em sua máquina.
 2. Clone este repositório:
-   2. Clone este repositório:
    ```bash
    git clone [https://github.com/gabrielareis-dev/trabalho-logica-py](https://github.com/gabrielareis-dev/trabalho-logica-py)
